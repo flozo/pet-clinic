@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.6-SNAPSHOT</version>
 	<name>pet-clinic</name>
 	<description>Pet clinic Project</description>
 	<properties>
@@ -49,7 +49,7 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:flozo/pet-clinic.git</developerConnection>
-	  <tag>0.0.4</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
