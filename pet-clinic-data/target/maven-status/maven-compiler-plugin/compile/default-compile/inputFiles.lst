@@ -1,5 +1,14 @@
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/VetService.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/OwnerService.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/AbstractMapService.java
 /home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Owner.java
 /home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Vet.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/PetService.java
 /home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Person.java
-/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/PetType.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/VetServiceMap.java
 /home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/Pet.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/PetServiceMap.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/map/OwnerServiceMap.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/services/CrudService.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/PetType.java
+/home/agentj/Code/Java/Kurse/Spring_Framework_5_Beginner_to_Guru/pet-clinic/pet-clinic-data/src/main/java/com/example/petclinic/model/BaseEntity.java
